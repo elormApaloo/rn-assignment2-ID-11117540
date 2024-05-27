@@ -9,3 +9,5 @@ I edited the Text component to display "My name is Elorm Apaloo".
 I increased the font size of the text to 24.
 
 Finally, i Made the name "Elorm Apaloo" bold.
+
+ID:11117540
